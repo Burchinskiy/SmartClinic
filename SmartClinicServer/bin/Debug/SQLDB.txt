@@ -1,0 +1,1 @@
+Data Source=192.168.1.31;Initial Catalog=Clinic;User ID=123;Password=123; Connection Timeout=2;
